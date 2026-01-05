@@ -1,7 +1,7 @@
-url: 'https://kjeon-illinoistech.github.io'
+url: 'https://kjeon-illinoistech.github.io/'
 baseurl: '/kjeon.github.io/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Construction Knowledge Hub: CoKub'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
