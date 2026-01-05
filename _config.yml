@@ -1,5 +1,4 @@
-url: 'https://kjeon-illinoistech.github.io/'
-baseurl: '/kjeon.github.io/'
+baseurl: "/jekyll-serif-theme/"
 permalink: pretty
 title: 'Construction Knowledge Hub: CoKub'
 
