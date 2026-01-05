@@ -1,4 +1,5 @@
-baseurl: '/'
+url: 'https://kjeon-illinoistech.github.io'
+baseurl: '/kjeon.github.io'
 permalink: pretty
 title: 'Jekyll Serif'
 
